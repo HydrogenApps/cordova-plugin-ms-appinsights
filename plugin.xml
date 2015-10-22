@@ -14,8 +14,8 @@
     <name>Application Insights</name>
     <description>Application Insights Cordova plugin.</description>
     <keywords>microsoft, azure, application, insights</keywords>
-    <repo>https://github.com/MSOpenTech/cordova-plugin-appinsights</repo>
-    <issue>https://github.com/MSOpenTech/cordova-plugin-appinsights/issues</issue>
+    <repo>https://github.com/HydrogenApps/cordova-plugin-ms-appinsights</repo>
+    <issue>https://github.com/HydrogenApps/cordova-plugin-appinsights/issues</issue>
 
     <dependency id="cordova-plugin-device" />
 
